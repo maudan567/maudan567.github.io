@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Aidan's STEMworks Internship Blog</title>
+		<link type="text/CSS" rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+	<div id="wrapper">
+		<div id="header">
+			<div id="logo">Aidan's Blog</div>
+
+	</div>
+	<div id="content">
+		<div class="post">
+			<h1>Entry I - Application Process</h1>
+			<p>For my first ever journal entry, I will start by introducing myself, and then explain how I applied for my internship. My name is Aidan Griffin and I am an upcoming senior at Kihei Public Charter High School. I want to go to college for computer science, and then move on to medical school and work in the dermatology field. I needed to find an internship that would be interesting and stimulating, and would expose me to a workplace environment where I would learn new skills and make experiences that I could take with me. When I found out about the STEMworks Internship from a friend, I knew it was the right fit. What is the STEMworks Internship you may ask? It’s a program that takes high school students and places them in real-world s.t.e.m. workplaces for six weeks. After the six weeks, students receive a stipend of $1000 dollars for their efforts. With this being such an amazing opportunity, it wasn't easy to be selected as one of the 31 students in the program.</p>
+			<img src="blogimages/kcs.jpeg">
+			</div>
+		</div>
+	</body>
+</html>
